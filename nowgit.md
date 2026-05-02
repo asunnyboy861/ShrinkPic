@@ -15,9 +15,9 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/ShrinkPic/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/ShrinkPic/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/ShrinkPic/privacy.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/ShrinkPic/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/ShrinkPic/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/ShrinkPic/privacy.html | ✅ Active |
 
 **Note**: Terms of Use not required for Free + One-Time IAP apps.
 
